@@ -7,6 +7,8 @@ b = float(input("Enter coefficient b: "))
 c = float(input("Enter coefficient c: "))
 
 # Calculate the discriminant
+# Added a new comment
+# added another change
 d = b**2 - 4*a*c
 
 if d > 0:
